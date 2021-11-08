@@ -444,6 +444,7 @@ button {
 .about__img {
   width: 200px;
   justify-self: center;
+  animation: floating 2s ease-in-out infinite;
 }
 
 /*=============== TRICK OR TREAT ===============*/
@@ -1036,5 +1037,18 @@ button {
 
   .footer__description br {
     display: none;
+  }
+}
+
+/*=============== KEYFRAMES ===============*/
+@keyframes floating {
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 15px);
+  }
+  100% {
+    transform: translate(0, -0px);
   }
 }
