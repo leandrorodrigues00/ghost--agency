@@ -20,7 +20,7 @@
 ## 👩‍💻 About the project
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
-- Developed with two libs for an amazing designer
+- Developed with two libs for an amazing designer.
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
