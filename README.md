@@ -10,6 +10,10 @@
   <a href="#-getting-started">Getting started</a> •
   <a href="#-license">License</a>
 </p>
+
+<p align="center">
+  <img alt="Halloween" src=".github/example-desktop.jpg" width="100%">
+</p>
  
  
   
@@ -20,17 +24,14 @@
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
- 
 
-[click here, see closer](https://ghost-agency.vercel.app/)  😉
+[click here, see closer](https://ghost-agency.vercel.app/) 😉
 
 ## 🚀 Technologies
 
-* HTML5 & CCS3
-* [Swiper](https://swiperjs.com/)
-* [ScrollrevealJs](https://scrollrevealjs.org/)
-
-
+- HTML5 & CCS3
+- [Swiper](https://swiperjs.com/)
+- [ScrollrevealJs](https://scrollrevealjs.org/)
 
 ## 💻 Getting started
 
